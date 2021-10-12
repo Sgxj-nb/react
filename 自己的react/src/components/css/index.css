@@ -1,0 +1,16 @@
+.info>div:nth-child(1) {
+  color: red;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.infoaaw {
+  text-align: center;
+}
+
+.iaaaa {
+  color: red;
+}
